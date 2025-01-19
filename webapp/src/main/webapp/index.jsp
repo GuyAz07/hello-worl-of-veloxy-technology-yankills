@@ -1,7 +1,69 @@
-<h1> Hello, Welcome to Simple DevOps Project !! modified by Vishal MAndle first time :)   </h1>
-<h1> Hello, Welcome to Simple DevOps Project !! modified by Vishal MAndle second time for checking poll SCM and i will get for sure :)   </h1>
-<h1> Hello, Welcome to Simple DevOps Project !! modified by Vishal MAndle 3rd time , and my job is getting executed automatically :)   </h1>
-<h1> Hello, Welcome to Simple DevOps Project !! modified by Vishal MAndle 4th time on sep 22 2020, and my job is getting executed automatically :)   </h1>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Glad to see you here </h2>
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My JSP Template</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1rem;
+            text-align: center;
+        }
+        nav ul {
+            list-style: none;
+            padding: 0;
+        }
+        nav ul li {
+            display: inline;
+            margin: 0 1rem;
+        }
+        nav ul li a {
+            color: #fff;
+            text-decoration: none;
+        }
+        main {
+            padding: 2rem;
+            background-color: #fff;
+            margin: 1rem;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1rem;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Website</h1>
+        <nav>
+            <ul>
+                <li><a href="index.jsp">Home</a></li>
+                <li><a href="about.jsp">About</a></li>
+                <li><a href="contact.jsp">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Main Content</h2>
+        <p>This is where your main content goes.</p>
+    </main>
+    <footer>
+        <p>&copy; 2025 My Website. All rights reserved.</p>
+    </footer>
+</body>
+</html>
